@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    "ArrayInit"
+  ],
+  "java.project.referencedLibraries": [
+    "/usr/local/lib/antlr-4.13.2-complete.jar"
+  ]
+}
