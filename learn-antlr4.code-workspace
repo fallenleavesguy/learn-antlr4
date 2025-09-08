@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"path": "."
 		}
 	],
 	"settings": {
@@ -11,6 +11,11 @@
 		],
 		"java.project.referencedLibraries": [
 			"/usr/local/lib/antlr-4.13.2-complete.jar"
-		]
+		],
+		"files.exclude": {
+			"**/*.class": true,
+			"**/*.interp": true,
+			"**/*.tokens": true
+		}
 	}
 }
